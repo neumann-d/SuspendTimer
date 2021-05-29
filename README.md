@@ -1,3 +1,7 @@
+No longer maintained
+=============
+Suspend mode now included in [ShutdownTimer](https://github.com/neumann-d/ShutdownTimer)
+
 Suspend Timer
 =============
 
